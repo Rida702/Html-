@@ -1,0 +1,10 @@
+ table, th, td {
+  border: 3px solid black;
+ border-collapse: collapse;
+}
+table {width:80%}
+
+th, td {
+  padding: 10px;
+}
+
